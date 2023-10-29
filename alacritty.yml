@@ -16,16 +16,16 @@ scrolling:
 
 font:
   normal:
-    family: JetBrainsMono Nerd Font
+    family: monospace
     style: Regular
   bold:
-    family: JetBrainsMono Nerd Font
+    family: monospace
     style: Bold
   italic:
-    family: JetBrainsMono Nerd Font
+    family: monospace
     style: Italic
   bold_italic:
-    family: JetBrainsMono Nerd Font
+    family: monospace
     style: Bold Italic
   size: 7
 draw_bold_text_with_bright_colors: true
